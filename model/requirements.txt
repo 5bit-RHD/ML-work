@@ -1,0 +1,6 @@
+onnxruntime
+numpy
+librosa
+fuzzywuzzy
+psutil
+transformers
